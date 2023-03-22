@@ -177,3 +177,9 @@ Temporary Items
 
 *.pem
 *.p12
+.idea/
+*build/
+.iml
+*wrapper/
+*gradlew
+*.bat
